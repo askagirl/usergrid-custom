@@ -1,0 +1,3 @@
+[submodule "usergrid"]
+	path = usergrid
+	url = git://github.com/apigee/usergrid-stack.git
