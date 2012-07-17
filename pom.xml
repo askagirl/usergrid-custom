@@ -31,6 +31,8 @@
 	<packaging>pom</packaging>
 	<modules>
     <module>baas/rest</module>
+    <module>usergrid</module>
+    <module>usergrid-portal</module>
     <!--
     <module>usergrid/config</module>
     <module>usergrid/core</module>
